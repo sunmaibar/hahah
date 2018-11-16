@@ -1,0 +1,21 @@
+
+body {
+	text-align: center;
+	font-family:"微軟正黑體", "Microsoft JhengHei", sans-serif;
+}
+button {
+	margin: 3% auto;
+}
+.title {
+
+	padding: 7% 15%;
+	color: #fff;
+	background-color: #4e4e4e;
+	font-family: "微軟正黑體";
+	font-weight:700;
+
+}
+img {
+	margin: 7% 15%;
+	text-align: center;
+}
